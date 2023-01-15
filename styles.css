@@ -1,0 +1,18 @@
+body {
+  background-color: #5d9b9b;
+}
+
+.card {
+  background-color: whitesmoke;
+}
+.card:hover {
+  top: -2px;
+  box-shadow: 0 10px 13px rgba(0, 0, 0, 0.6);
+}
+
+img {
+  display: block;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+}
